@@ -13,7 +13,7 @@ export const CUSTOM_BACKGROUND_URL = "https://raw.githubusercontent.com/lethaeia
 
 export const USER_PROFILE: UserProfile = {
   name: "浅曦",
-  title: "INFP-T ; 社恐",
+  title: "INFJ-T ; 社恐",
   bio: `我会试着做的更好~珍惜每一次相遇的缘分~
   I will try to be a better person and treasure the serendipity of every encounter.`,
   avatarUrl: "https://raw.githubusercontent.com/lethaeia/Pages/main/Avater.jpg",
