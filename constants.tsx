@@ -14,7 +14,7 @@ export const CUSTOM_BACKGROUND_URL = "https://raw.githubusercontent.com/lethaeia
 export const USER_PROFILE: UserProfile = {
   name: "浅曦",
   title: "个人主页",
-  bio: `生如夏花，开到颓靡。`,
+  bio: `生如夏花，开到颓靡。\n(感谢朋友画的头像`,
   avatarUrl: "https://raw.githubusercontent.com/lethaeia/Pages/main/Avater.jpg",
   location: "China"
 };
@@ -23,15 +23,15 @@ export const TILES: TileData[] = [
   {
     id: '1',
     title: 'GitHub',
-    description: '我的Github链接，还是萌新',
+    description: 'Github链接',
     icon: Github,
     url: 'https://github.com/lethaeia',
     size: 'medium',
   },
   {
     id: '2',
-    title: 'VRC',
-    description: 'VRC好友链接，可以一起玩',
+    title: 'VRChat',
+    description: 'VRChat好友链接',
     icon: Contact,
     url: 'https://vrchat.com/home/user/usr_44f78747-d822-4f29-a6d4-56b75ff31c99',
     size: 'small',
@@ -39,7 +39,7 @@ export const TILES: TileData[] = [
   {
     id: '3',
     title: 'Email',
-    description: 'secret0436@outlook.com 可能不怎么看邮件',
+    description: 'secret0436@outlook.com',
     icon: Mail,
     url: 'secret0436@outlook.com',
     size: 'small',
@@ -48,7 +48,7 @@ export const TILES: TileData[] = [
   {
     id: '4',
     title: '网易云音乐',
-    description: '比较杂乱的歌单...',
+    description: '比较杂乱的歌单',
     icon: Music,
     url: 'https://y.music.163.com/m/playlist?id=2352571405&creatorId=1546539951',
     size: 'medium',
