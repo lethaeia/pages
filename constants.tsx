@@ -14,7 +14,7 @@ export const CUSTOM_BACKGROUND_URL = "https://raw.githubusercontent.com/lethaeia
 export const USER_PROFILE: UserProfile = {
   name: "浅曦",
   title: "个人主页",
-  bio: `生如夏花，开到颓靡。\n(感谢朋友画的头像`,
+  bio: `生如夏花，开到颓靡。`,
   avatarUrl: "https://raw.githubusercontent.com/lethaeia/Pages/main/Avater.jpg",
   location: "China"
 };
